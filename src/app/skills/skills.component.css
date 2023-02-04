@@ -1,0 +1,30 @@
+.container {
+  width: 100%;
+}
+
+.Front{
+  background-color: #dadddb;
+}
+.web{
+  background-color: #dadddb;
+}
+.com{
+  background-color: #dadddb;
+}
+.FES {
+  width: 90%;
+  background-color: #9c9e9d;
+}
+.WD {
+  width: 80%;
+  background-color: #9c9e9d;
+}
+.CS {
+  width: 65%;
+  background-color: #9c9e9d;
+}
+
+.skills {
+  text-align: right;
+  color: white;
+}
