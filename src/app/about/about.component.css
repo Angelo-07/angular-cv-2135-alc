@@ -1,0 +1,5 @@
+.container {
+  width: 1300px;
+  float: auto;
+  background: linear-gradient(to top left, #ccffff 0%, #333399 100%);
+}
