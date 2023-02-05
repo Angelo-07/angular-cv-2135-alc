@@ -8,3 +8,9 @@ div {
   border-style: solid;
   border-color: hsl(44, 100%, 50%);
 }
+body {
+  background-image: url('backg.jpg');
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: 100% 100%;
+}
