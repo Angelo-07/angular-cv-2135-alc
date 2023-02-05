@@ -6,25 +6,25 @@ h4 {
 }
 
 .Front{
-  background-color: #69d2f542;
+  background-color: #f5cb6942;
 }
 .web{
-  background-color: #69d2f542;
+  background-color: #f5cb6942;
 }
 .com{
-  background-color:#69d2f542;
+  background-color:#f5cb6942;
 }
 .FES {
   width: 90%;
-  background-color: #44a8eb;
+  background-color: #eac934;
 }
 .WD {
   width: 80%;
-  background-color: #44a8eb;
+  background-color: #eac934;
 }
 .CS {
   width: 65%;
-  background-color: #44a8eb;
+  background-color: #eac934;
 }
 
 .skills {
@@ -35,6 +35,6 @@ hr {
   position: relative;
   border: none;
   height: 5px;
-  background-color: black;
+  background-color: rgb(204, 150, 52);
  
 }
